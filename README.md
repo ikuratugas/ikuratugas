@@ -5,7 +5,6 @@
 * ⚡ Fun fact: I like typing, my record is 125 wpm
   <br>
   <br>
-  <br>
 
 ### Tech Stack
  <a href="#"><img align="left" alt="Dart" title="Dart" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" /></a>
