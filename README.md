@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi! 👋 I'm Ikrar Aprianto (ikura)
 
 * 🌱 I’m currently learning about Mobile Development (Flutter)
