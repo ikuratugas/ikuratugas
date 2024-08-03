@@ -4,14 +4,19 @@
 * 📫 How to reach me: ikrartugas@gmail.com
 * ⚡ Fun fact: I like typing, my record is 125 wpm
   <br>
-  <br>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikuratugas&show_icons=false&count_private=false)
 
 ### Tech Stack
  <a href="#"><img align="left" alt="Dart" title="Dart" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" /></a>
   <a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-320px.png" /></a>
 <a href="#"><img align="left" alt="React" title="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /></a> 
-  
+
+<br>
+<br>
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikuratugas&show_icons=false&count_private=false)
+
+
   <br>
   <br>
 
