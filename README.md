@@ -5,6 +5,7 @@
 * ⚡ Fun fact: I like typing, my record is 125 wpm
   <br>
   <br>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikuratugas&show_icons=false&count_private=false)
 
 ### Tech Stack
  <a href="#"><img align="left" alt="Dart" title="Dart" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" /></a>
